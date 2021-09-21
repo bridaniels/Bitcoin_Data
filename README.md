@@ -1,7 +1,7 @@
 # Bitcoin's Viability as a Future Currency
 
 
-![CryptoCompareLogo](/data/cryptocompare_logo.png "CryptoCompare Logo")
+![CryptoCompareLogo](/data/cryptocompare_logo_white.png "CryptoCompare Logo")
 
 
 ---
