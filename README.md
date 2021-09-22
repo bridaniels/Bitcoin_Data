@@ -17,7 +17,9 @@ High NVT Ratios indicate high speculative value. Network Value is outpacing the 
 
 LOW NVT -> network value isn't keeping up with increased usage of the network -> bearish 
 
+![BTC_priceVSnvt](/NVT_Ratios/btc_nvt_price.jpg "Bitcoin Price VS NVT Ratio")
 
+![ETH_priceVSnvt](/NVT_Ratios/eth_nvt_price.jpg "Ether Price VS NVT Ratio")
 
 
 
@@ -26,4 +28,5 @@ LOW NVT -> network value isn't keeping up with increased usage of the network ->
 
 
 Sources:
-![NVT - woobull ](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/)
+
+- [NVT - woobull ](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/)
