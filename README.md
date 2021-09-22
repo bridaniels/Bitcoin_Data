@@ -28,5 +28,9 @@ LOW NVT -> network value isn't keeping up with increased usage of the network ->
 
 
 Sources:
+<<<<<<< HEAD
 
 - [NVT - woobull ](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/)
+=======
+[NVT - woobull ](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/)
+>>>>>>> f28f64c48f051e160b07c450b55e13313bf01dcf
